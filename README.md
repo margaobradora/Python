@@ -1,2 +1,4 @@
-# Python
-python exercises compilation 
+# Welcome to my repo
+
+- What to find here?
+  -   python exercises compilation 
